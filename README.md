@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,70:161b22,100:00f0ff&height=180&section=header&text=ARFI%20ADI%20NUGROHO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=APPLIED%20DATA%20SCIENCE%20%26%20MACHINE%20LEARNING%20SYSTEMS&descSize=15&descAlignY=62&animation=fadeIn" alt="Arfi Adi Nugroho - Header Banner" />
+  <img width="100%" src="./header.svg" alt="Arfi Adi Nugroho - Applied Data Science & Machine Learning Systems" />
 </div>
 
 <div align="center">
@@ -20,11 +20,8 @@
 
 <div align="center">
   <blockquote>
-    <strong>Applied Data Science Student @ PENS</strong> (GPA: 3.70 / 4.00), targeting <strong>Data Scientist</strong> and <strong>Machine Learning Engineer</strong> roles. Specializing in architecting end-to-end predictive systems, computer vision pipelines, and agentic LLM workflows with rigorous validation protocols and reproducible MLOps practices.
+    <strong>Applied Data Science Practitioner</strong> focused on architecting production-grade <strong>predictive systems</strong>, robust <strong>computer vision pipelines</strong>, and multimodal <strong>agentic AI workflows</strong>. Driven by empirical validation protocols, end-to-end data hygiene, and reproducible <strong>MLOps practices</strong>.
   </blockquote>
-  <p>
-    <strong>⚡ Internship Availability:</strong> Starting 28 December 2026 &nbsp;|&nbsp; <strong>Duration:</strong> 4–6 Months
-  </p>
 </div>
 
 ---
@@ -32,20 +29,20 @@
 ## Featured Architectures & Systems
 
 ### [HargaWatch Surabaya — Food Price Intelligence & Early Warning System](https://github.com/Arfiadi/hargawatch-surabaya)
-*`Python` · `CatBoost` · `XGBoost Quantile` · `Next.js 15` · `Supabase PostgreSQL` · `Tailwind CSS`*
+*`Python` · `CatBoost` · `XGBoost Quantile` · `Scikit-learn` · `Next.js 15` · `Supabase PostgreSQL`*
 
-* **Domain & Problem:** Spatial food price monitoring and commodity risk intelligence across Surabaya's food distribution network, managing volatility without lookahead bias.
-* **Architecture & Engineering:** Built an automated ETL pipeline consuming 476k+ daily food price records (2020–2026) across 6 traditional markets and 37 commodities; engineered zero-lookahead features integrating wholesale price transmission signals from Pasar Induk Keputran; trained CatBoost and XGBoost quantile regression models (p10, p50, p90) for multi-horizon forecast distributions.
-* **Validation & Impact:** Deployed an adaptive 4-pillar Early Warning System (EWS) featuring automated Telegram alerts and a Next.js 15 GIS disparity dashboard.
+* **Domain & Context:** Collaborative team project on spatial food price monitoring and commodity risk intelligence across Surabaya's food distribution network.
+* **Role & Engineering:** Led the predictive modeling and forecasting engine: engineered zero-lookahead features integrating wholesale price transmission signals from Pasar Induk Keputran across 37 commodities; built a two-tier forecasting engine using CatBoost and XGBoost quantile regression (p10, p50, p90) for multi-horizon price distribution estimates.
+* **Validation & Impact:** Developed an adaptive 4-pillar Early Warning System (EWS) coupled with automated Telegram anomaly alert logic, integrated into the team's Next.js 15 GIS disparity dashboard.
 * **Deliverables:** [Repository](https://github.com/Arfiadi/hargawatch-surabaya) · [Live Demo](https://hargawatch-surabaya.vercel.app/)
 
 ---
 
 ### [Waste Image Classification — Satria Data BDC 2026](https://github.com/Arfiadi/SatDat-BDC2026-PondasiPagi)
-*`PyTorch Lightning` · `ConvNeXt` · `EVA02` · `Albumentations` · `Hydra` · `Weights & Biases` · `Cleanlab` · `FAISS`*
+*`PyTorch Lightning` · `ConvNeXt` · `EVA02` · `Albumentations` · `Hydra` · `Weights & Biases` · `FiftyOne` · `Cleanlab` · `FAISS`*
 
 * **Domain & Problem:** Competitive computer vision pipeline engineered for the Satria Data 2026 Big Data Challenge (Team Pondasi Pagi), resolving extreme class imbalance and duplicate imagery.
-* **Architecture & Engineering:** Curated the training dataset from 26,527 down to 26,180 verified samples via FAISS embedding deduplication and Cleanlab label-noise auditing; structured 17 CNN and Vision Transformer experiments under Stratified 5-Fold Cross-Validation using Hydra configuration management.
+* **Architecture & Engineering:** Curated the training dataset from 26,527 down to 26,180 verified samples via FAISS embedding deduplication, visual dataset debugging with FiftyOne, and Cleanlab label-noise auditing; structured 17 CNN and Vision Transformer experiments under Stratified 5-Fold Cross-Validation using Hydra configuration management.
 * **Validation & Impact:** Engineered a soft-voting ensemble of ConvNeXt variants and EVA02, securing an **Out-Of-Fold Macro F1 of 0.9889** and a **Public Leaderboard score of 0.9793**.
 * **Deliverables:** [Repository](https://github.com/Arfiadi/SatDat-BDC2026-PondasiPagi)
 
@@ -195,18 +192,4 @@
   * Google Cloud Gen AI Academy APAC (Cohort 1)
   * [Verified Credential Portfolio (Google Drive)](https://drive.google.com/file/d/1j6cT8VzE61Nv8ten-L2FZQWsse7tI1Rs/view?usp=sharing)
 
----
 
-## Activity & Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arfiadi&show_icons=true&include_all_commits=true&count_private=true&bg_color=090D16&border_color=161B22&title_color=00F0FF&text_color=CDD6F4&icon_color=00F0FF&border_radius=8&hide_border=true" alt="Arfiadi's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfiadi&layout=compact&card_width=440&langs_count=6&bg_color=090D16&border_color=161B22&title_color=00F0FF&text_color=CDD6F4&border_radius=8&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub><em>Crafted with an end-to-end engineering mindset · Focused on empirical results &amp; production MLOps</em></sub>
-</div>
