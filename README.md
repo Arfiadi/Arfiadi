@@ -12,7 +12,7 @@
 
 <br/>
 
-> **Applied Data Science practitioner** focused on architecting production-grade predictive systems, competitive computer vision pipelines, and multimodal agentic AI workflows. Driven by **domain-first problem framing**, **zero-leakage validation protocols**, **reproducible MLOps**, and **deterministic production guardrails**.
+> **Applied Data Science practitioner** focused on architecting production-grade predictive systems, competitive computer vision pipelines, and multimodal agentic AI workflows. Driven by **domain-first problem framing**, **empirical validation protocols**, **reproducible MLOps**, and **deterministic production guardrails**.
 
 ---
 
